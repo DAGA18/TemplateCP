@@ -1,1 +1,1 @@
-## This is Python CP template
+## This is Python CP template. Please check template.py and code!
